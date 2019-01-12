@@ -1,0 +1,12 @@
+{
+  "name": "redux-debugger",
+  "version": "1.0.0",
+  "description": "A simple redux middleware to query & debug state using devtools.",
+  "main": "index.js",
+  "author": "thebigfatpanda",
+  "license": "MIT",
+  "devDependencies": {
+    "redux": "^4.0.1"
+  },
+  "repository": "https://github.com/anirudhvarma12/redux-debugger"
+}
