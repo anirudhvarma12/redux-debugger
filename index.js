@@ -9,7 +9,7 @@ window.reduxDebugger = {
   }
 };
 
-export const reduxExplorerMiddleware = store => next => action => {
+export const reduxDebugMiddleware = store => next => action => {
   let result = next(action);
   window.reduxDebugger.state = store.getState();
   return result;
