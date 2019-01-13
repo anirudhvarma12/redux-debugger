@@ -4,6 +4,10 @@ Devtools of major browsers like Google Chrome and Mozilla Firefox are fairly pow
 
 # Install
 
+```
+npm i --save redux-debugger
+```
+
 # How to use
 
 Adding the middleware
